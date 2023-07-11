@@ -1,0 +1,2 @@
+[28-Nov-2022 10:20:56 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/tpdtechnosoft/public_html/TPD_Projects/7htours.com/admin/admin/models/Cms_Model.php on line 529
+[28-Nov-2022 10:21:09 UTC] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/tpdtechnosoft/public_html/TPD_Projects/7htours.com/admin/admin/models/Offer_model.php on line 100
